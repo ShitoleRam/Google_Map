@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Rating Point = 4.5 And Total reviews = (33,011)]]>
+    </line>
+    <line>
+      <![CDATA[WRQG+G8R, Vinoo Mankad Rd, Churchgate, Mumbai, Maharashtra 400020]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-24T13:47:20 IST" name="Default suite" finished-at="2022-07-24T13:49:38 IST" duration-ms="137686">
+    <groups>
+    </groups>
+    <test started-at="2022-07-24T13:47:20 IST" name="Default test" finished-at="2022-07-24T13:49:38 IST" duration-ms="137686">
+      <class name="testPkg.VerifyWankhede">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:47:20 IST" name="beforeClass" finished-at="2022-07-24T13:48:58 IST" duration-ms="97294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:48:58 IST" name="beforMethod" finished-at="2022-07-24T13:48:59 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="searchStadium()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:48:59 IST" name="searchStadium" finished-at="2022-07-24T13:49:16 IST" duration-ms="17716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchStadium -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:16 IST" name="afterMethod" finished-at="2022-07-24T13:49:16 IST" duration-ms="59" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchStadium status=SUCCESS method=VerifyWankhede.searchStadium()[pri:0, instance:testPkg.VerifyWankhede@77c2494c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:16 IST" name="beforMethod" finished-at="2022-07-24T13:49:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="verifyName()[pri:1, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:16 IST" name="verifyName" finished-at="2022-07-24T13:49:23 IST" duration-ms="6777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyName -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:23 IST" name="afterMethod" finished-at="2022-07-24T13:49:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyName status=SUCCESS method=VerifyWankhede.verifyName()[pri:1, instance:testPkg.VerifyWankhede@77c2494c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:23 IST" name="beforMethod" finished-at="2022-07-24T13:49:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="verifyTitle()[pri:2, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:23 IST" name="verifyTitle" finished-at="2022-07-24T13:49:23 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:23 IST" name="afterMethod" finished-at="2022-07-24T13:49:23 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=VerifyWankhede.verifyTitle()[pri:2, instance:testPkg.VerifyWankhede@77c2494c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:23 IST" name="beforMethod" finished-at="2022-07-24T13:49:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="ratingPointAndReviews()[pri:3, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:23 IST" name="ratingPointAndReviews" finished-at="2022-07-24T13:49:32 IST" duration-ms="8941" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Rating Point = 4.5 And Total reviews = (33,011)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ratingPointAndReviews -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:32 IST" name="afterMethod" finished-at="2022-07-24T13:49:32 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ratingPointAndReviews status=SUCCESS method=VerifyWankhede.ratingPointAndReviews()[pri:3, instance:testPkg.VerifyWankhede@77c2494c] output=Rating Point = 4.5 And Total reviews = (33,011)]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:32 IST" name="beforMethod" finished-at="2022-07-24T13:49:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="verifyLink()[pri:4, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:32 IST" name="verifyLink" finished-at="2022-07-24T13:49:32 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLink -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:32 IST" name="afterMethod" finished-at="2022-07-24T13:49:33 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLink status=SUCCESS method=VerifyWankhede.verifyLink()[pri:4, instance:testPkg.VerifyWankhede@77c2494c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:33 IST" name="beforMethod" finished-at="2022-07-24T13:49:33 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="printAddress()[pri:5, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:33 IST" name="printAddress" finished-at="2022-07-24T13:49:33 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[WRQG+G8R, Vinoo Mankad Rd, Churchgate, Mumbai, Maharashtra 400020]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- printAddress -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:33 IST" name="afterMethod" finished-at="2022-07-24T13:49:33 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=printAddress status=SUCCESS method=VerifyWankhede.printAddress()[pri:5, instance:testPkg.VerifyWankhede@77c2494c] output=WRQG+G8R, Vinoo Mankad Rd, Churchgate, Mumbai, Maharashtra 400020]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:33 IST" name="beforMethod" finished-at="2022-07-24T13:49:33 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="verifyPhoneNumber()[pri:6, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:33 IST" name="verifyPhoneNumber" finished-at="2022-07-24T13:49:34 IST" duration-ms="893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPhoneNumber -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:34 IST" name="afterMethod" finished-at="2022-07-24T13:49:34 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPhoneNumber status=SUCCESS method=VerifyWankhede.verifyPhoneNumber()[pri:6, instance:testPkg.VerifyWankhede@77c2494c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testPkg.VerifyWankhede@77c2494c]" started-at="2022-07-24T13:49:34 IST" name="afterClass" finished-at="2022-07-24T13:49:38 IST" duration-ms="4297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testPkg.VerifyWankhede -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
